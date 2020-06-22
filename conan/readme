@@ -1,0 +1,3 @@
+remote repository : https://github.com/superfan007/openwrt_widora/conan
+
+svn co https://github.com/superfan007/openwrt_widora/trunk/conan
